@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "290008813344",
+    "project_id": "face-recognation-f4bb1",
+    "storage_bucket": "face-recognation-f4bb1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290008813344:android:4b3039c4144f0f30ce9145",
+        "android_client_info": {
+          "package_name": "com.mycompany.faceidattendence"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSzkRXvyRh6sF-O3ASJp_y2mmE0xx5H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290008813344:android:6ce441c11371f69bce9145",
+        "android_client_info": {
+          "package_name": "com.mycompany.seguros"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSzkRXvyRh6sF-O3ASJp_y2mmE0xx5H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290008813344:android:40a5833450e01490ce9145",
+        "android_client_info": {
+          "package_name": "com.vivasemmedo.viva_cliente_v2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzSzkRXvyRh6sF-O3ASJp_y2mmE0xx5H8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
